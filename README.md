@@ -1,4 +1,5 @@
-Not my real <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=15/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width=50/>
-and yes, it is.
-
-<!-- **imsoondae/imsoondae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## Discord Activity
+<p align="start">
+<!--   <a href="https://discord.com/users/793482727223590922"><img src="https://lanyard.cnrad.dev/api/793482727223590922"/></a> -->
+  <a href="https://discord.com/users/793482727223590922"><img src="https://discord.c99.nl/widget/theme-3/793482727223590922.png"/></a>
+</p>
