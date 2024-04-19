@@ -4,7 +4,5 @@
   <a href="https://discord.com/users/793482727223590922"><img src="https://discord.c99.nl/widget/theme-3/793482727223590922.png"/></a>
 </p>
 
-## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=imsoondae&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imsoondae&theme=tokyonight&hide_border=true)<br/>
+## Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsoondae&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
